@@ -1,0 +1,31 @@
+﻿---
+ID: "da817656-d8c7-4493-9730-1bc3e67b6c5c"
+Parent: "6600b9c0-8efe-47a5-a1bc-5222e5ede323"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/OneValtech/Sites/New tenant/Site
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/flag_generic.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {6669DC16-F106-44B5-96BE-7A31AE82B5B5}
+    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{72E5B90B-5052-4294-9BB9-CEBA6A779BDE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210926T195833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

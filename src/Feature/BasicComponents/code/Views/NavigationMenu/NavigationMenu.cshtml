@@ -1,0 +1,21 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model OneValtech.Feature.BasicComponents.Models.NavigationMenu.INavigationMenu
+
+<header class="header">
+    @Html.Glass().RenderImage(img => Model.HeartImage, isEditable: true)
+
+    <ul class="header__menu">
+        <li>
+            @Html.Glass().RenderLink(myProfile => Model.MyProfileLink)
+        </li>
+        <li>
+            @Html.Glass().RenderLink(account => Model.AccountLink)
+        </li>
+    </ul>
+
+    <button class="btn btn--primary raise-hand">
+        @Html.Glass().Editable(btnText => Model.HelpButtonText)
+    </button>
+    <a href="#menu" class="box-shadow-menu">
+    </a>
+</header>

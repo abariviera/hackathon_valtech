@@ -1,0 +1,35 @@
+﻿---
+ID: "148cf425-d962-4884-8935-e8733297c2d6"
+Parent: "6600b9c0-8efe-47a5-a1bc-5222e5ede323"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/OneValtech/Sites/New tenant/Settings
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/gearwheels.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {8517DBE7-68BC-4700-AD41-379C4EBB76A0}
+    {35EBD280-C9BE-4E49-BFAE-F90A32C019DD}
+    {6175F4C7-F87F-4F7F-928E-4C5CA5DFFAF4}
+    {9D81C61A-0341-4312-816D-E5204385EA3C}
+    {46B0CB86-9B0F-4650-A06A-2E1CAC0F2ADC}
+    {C6E5A68F-8493-42F3-A8B4-C7FA8A5FB31D}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{05283740-EBD8-4574-BD21-93BFBFD2F3A0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210926T195833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

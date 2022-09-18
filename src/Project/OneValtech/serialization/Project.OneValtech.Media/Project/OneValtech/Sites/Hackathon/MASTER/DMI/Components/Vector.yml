@@ -1,0 +1,53 @@
+﻿---
+ID: "90ac852e-6479-40c4-89a5-5d38140ec8f1"
+Parent: "3b56bdbf-e006-4689-a653-17dc9c27bebb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/OneValtech/Sites/Hackathon/MASTER/DMI/Components/Vector
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/90AC852E647940C489A55D38140EC8F1.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 54
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "bd38458b-3693-4045-a9da-289636a519f2"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADYAAAAyCAYAAAAX1CjLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKjSURBVHgB7ZrfUdtAEMa/EzPhlRJUArwEMnkhHUAFwRXEqSCiAkgFOBWQDjAPYPvJlKAO4JUHfOzeIWyjf3ens9B59JuxR9KctPq0p529XQG23Ml9TOUNZvInNs1MntBvjomMYYmwGj2RZ/R/QWftvR0ZQeIc30QKn8zlHp5xRVsnal/iCREGOBT/TS8RmQ4kUQkJuloRxZzRvl/vTeQxiZojE8WwTYlrdQ+GmHlsKi/p/1fNqGbe015KDOxc4kj8rhlTI4zndkRPSmIfZqR0xYSmzD/YwF4SaurFRuMFHrDAadVDFBXGYjXNTI2tY+Y9cy8VkZKNH2U2ioXxEwR5av19cjE8IMPjUhs2XiqiIqjkg8e9HCpPNRPFaI9P5YXyTAZv8zvrPhuWVASVdY+ZBQkXtPe0xWZeKkNP/STb1cL0XL+mrWOEzRi7FFQOxJNoGCS6iAoqLOzRw/vUNdJoC0UxsXlKFRi9sNDohYVGLyw0emGh0QsLjV5YaGy1MOPqakCMIio+nqpa4LbAWo7EYFnMmVJ1iuvyYTMkUX95Y71KxZ2UHVXUiRESXF9cUPH0u3jIDuULpuEVdworwvmoyAN2cQAuZXWfsbrXgjJ3dVNiJv/Q00jQRQR1XQ7Luy71baRuinsPEmWY9ce4ZbrINf3ah4PEDjUEv4rbuqHmrdrPDyqVbaOPmKdUfEG+MDfd2oZtWojSp7gwo9aQxBDtMOJMApa4JcEcjdpIw97SIzjg5rGM/OcRftCdyqF1L3uFZsIY/0ElxQv1uFbSIxeaC2N8iTP4GsAUPwvNZRrWZG03whe7yFeFH4+t4pKp6G9DzuER/8IYu7VdbXrkwmaEMfVrOy9BoozNCWPKg0pqm0nYstkqVXFQKV1DhQkHFU7FWuIVWQjxuxR3JxQAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 782
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 54 x 50
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210927T005204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: small heart
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: heart

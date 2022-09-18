@@ -1,0 +1,23 @@
+﻿@using System.Web.Mvc.Html
+@using Sitecore.Mvc
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<!doctype html>
+<html class="no-js" lang="@Model.Item.Language.Name">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/themes/styles/bundle.css">
+</head>
+
+<body>
+    @Html.Sitecore().Placeholder("body-top")
+    @Html.Sitecore().Placeholder("body-main")
+    @Html.Sitecore().Placeholder("body-bottom")
+
+    <script src="/themes/scripts/bundle.js"></script>
+</body>
+
+</html>

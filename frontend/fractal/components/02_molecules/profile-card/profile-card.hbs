@@ -1,0 +1,10 @@
+<div class="profile-card">
+  <img class="img profile-card__image" src="{{image.src}}" alt="{{image.alt}}">
+  <div class="profile-card__info">
+    <p>{{name}}</p>
+    <div class="profile-card__info__likes">
+      <span>{{likeCount}}</span>
+      {{render '@heart'}}
+    </div>
+  </div>
+</div>

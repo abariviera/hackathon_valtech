@@ -1,0 +1,6 @@
+<Project>
+  <Sdk Name="Microsoft.Build.CentralPackageVersions" Version="2.0.46" />
+  <PropertyGroup>
+    <ExcludeFilesFromDeployment>bin\Sitecore.*.dll;bin\System.*.dll</ExcludeFilesFromDeployment>
+  </PropertyGroup>
+</Project>

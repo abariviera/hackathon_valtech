@@ -1,0 +1,50 @@
+﻿---
+ID: "501354f3-7f56-473a-877b-8ac92455cfc6"
+Parent: "3b56bdbf-e006-4689-a653-17dc9c27bebb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/OneValtech/Sites/Hackathon/MASTER/DMI/Components/heart
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/501354F37F56473A877B8AC92455CFC6.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 74
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "bcef63b2-1b2c-4192-8980-e41f19f39ada"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAEoAAABECAMAAAARBFMzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA5UExURWNMiLGmw1Y9frGmxDwgai8RYH1qnHBbkqSXuZeIsEkvdIp5plY+fpeIr6SWuX1qm2NNh4p5pQAAAOFdR5wAAAATdFJOU////////////////////////wCyfdwIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABqElEQVRYR+2X3ZaCMAwG6y7oirI/ff+H3bZfKE3bhCBeMjdWTs6YMzcW5xvchQ4aH/RZ0Kg+h3G80lnkNo7DF50zteo+RiZ9sfBrgTt9W6hU1zQUUBYLK4EHPSC46klDAXExrJTgwZhqohHQXSyvlJjoaaJQxeCMzmL1yEDPI6sKwTnVYnwlsMbPqhycwRarVwI5/qIqgnPyYg960LDEJxUPzqDFtIk0AFUTnBMWE1dKIH5U9YIzJmUlEOMHlf6LRkJ8Jwffx4d3m7tbmRwd3sCpsnOq7JwqO6fKzqmy42Y6HGZ2/puOxxgu6Y/+DX+F8QaSrh+HXc9oSarudW4HP0kClT8Uf4aDVAfih+BgUb0cbL1vr6rXXCk4KFSvxEdwUKr2x6fggKn2xufvcVy1Kxh7wQnUKrurNrUqa/wbja+0Klt8Fhx0VJb4zYtzoKfaDNZkSvRVuqtvklRa/F8aqZFUcvw/GmgQVVL8XnAgq7rBytfuGk3VuoTgQFXV8aXgQFfx+GJwsKEq48vBwZYqB9OCg20VXGpwYFD5cNvRgwOLys8bwSPe/wPSOrbGjtHJAQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 631
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 74 x 68
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 68
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210926T201503Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: heart
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: heart

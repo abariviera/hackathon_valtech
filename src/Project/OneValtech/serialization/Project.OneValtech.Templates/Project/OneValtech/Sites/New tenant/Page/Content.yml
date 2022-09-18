@@ -1,0 +1,18 @@
+﻿---
+ID: "8d3daba7-b050-42fd-b5c1-8b3a89a3de66"
+Parent: "7c70b4a8-b590-4efc-b355-a36a16b8caf6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/OneValtech/Sites/New tenant/Page/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210926T195835Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

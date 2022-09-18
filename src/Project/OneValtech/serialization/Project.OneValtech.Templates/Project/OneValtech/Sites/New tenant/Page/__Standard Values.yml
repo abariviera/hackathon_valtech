@@ -1,0 +1,26 @@
+﻿---
+ID: "d36016f0-acec-4fcd-bad2-0745d69b36e2"
+Parent: "7c70b4a8-b590-4efc-b355-a36a16b8caf6"
+Template: "7c70b4a8-b590-4efc-b355-a36a16b8caf6"
+Path: /sitecore/templates/Project/OneValtech/Sites/New tenant/Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7C70B4A8-B590-4EFC-B355-A36A16B8CAF6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210926T195833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a3651ac0-e690-4a04-8da0-fd9d3418fad7"
+      Hint: Title
+      Value: $name
